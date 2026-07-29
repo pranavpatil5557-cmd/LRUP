@@ -9,3 +9,4 @@ buttons.forEach(button => {
         alert("Booking feature will be added in the backend.");
     });
 });
+console.log("Equipment Catalog Loaded");
